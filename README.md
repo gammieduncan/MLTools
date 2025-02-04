@@ -38,4 +38,4 @@ The default model is gpt-4o-mini, but you can change it to any other model suppo
 
 ## Test
 
-Run: python prompt_reducer.py --context-file war_and_peace.txt --prompt "extract all the sentences that mention Vronsky on a horse. Only return the relevant text as it is written, not any commentary. if there are no instances, return nothing. Here is the text: " 
+Run: python prompt_reducer.py --context-file war_and_peace.txt --prompt "extract all the sentences that mention someone on a horse. Only return the relevant text as it is written, not any commentary. if there are no instances, return nothing. Here is the text: " 
